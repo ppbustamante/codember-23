@@ -23,3 +23,5 @@ Solving challenges and hints to the secrets I found from the game [codember](htt
 |  #02   |   you have new email   |
 |  #03   |      konami code       |
 |  #04   | you have another email |
+|  #05   |     party command      |
+|  #06   |       magic word       |
