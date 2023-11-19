@@ -17,8 +17,9 @@ Solving challenges and hints to the secrets I found from the game [codember](htt
 
 ## Table of secrets
 
-| Secret |       Hints        |
-| :----: | :----------------: |
-|  #01   |    pixel image     |
-|  #02   | you have new email |
-|  #03   |    konami code     |
+| Secret |         Hints          |
+| :----: | :--------------------: |
+|  #01   |      pixel image       |
+|  #02   |   you have new email   |
+|  #03   |      konami code       |
+|  #04   | you have another email |
