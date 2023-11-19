@@ -10,9 +10,10 @@ Solving challenges and hints to the secrets I found from the game [codember](htt
 
 ## Table of challenges
 
-| Challenge |              Solution              |
-| :-------: | :--------------------------------: |
-|    #01    | [Scala](challenge_01/src/main/scala/Crypto.scala) |
+| Challenge |                        Solution                         |
+| :-------: | :-----------------------------------------------------: |
+|    #01    |    [Scala](challenge_01/src/main/scala/Crypto.scala)    |
+|    #02    | [Scala](challenge_02/src/main/scala/MiniCompiler.scala) |
 
 ## Table of secrets
 
