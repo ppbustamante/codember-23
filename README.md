@@ -14,6 +14,7 @@ Solving challenges and hints to the secrets I found from the game [codember](htt
 | :-------: | :-----------------------------------------------------: |
 |    #01    |    [Scala](challenge_01/src/main/scala/Crypto.scala)    |
 |    #02    | [Scala](challenge_02/src/main/scala/MiniCompiler.scala) |
+|    #03    |    [Scala](challenge_03/src/main/scala/Cipher.scala)    |
 
 ## Table of secrets
 
@@ -25,3 +26,6 @@ Solving challenges and hints to the secrets I found from the game [codember](htt
 |  #04   | you have another email |
 |  #05   |     party command      |
 |  #06   |       magic word       |
+|  #07   |    sudo pixel image    |
+|  #08   |     sudo log file      |
+|  #09   |     CHANGELOG.txt      |
