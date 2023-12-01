@@ -119,6 +119,6 @@ class ChecksumSuite extends munit.FunSuite {
       "zOAGtZEc-zOAGtZEc",
       "Cb2n1GNN-Cb2n1G"
     )
-    assertEquals(Checksum.findByIndex(fileNames, 31), Some("O2hrQ-O2hrQ"))
+    assertEquals(Checksum.findByIndex(fileNames, 32), Some("O2hrQ-O2hrQ"))
   }
 }

@@ -3,10 +3,11 @@ object Checksum {
   private val PATTERN = "(.+)-(.+)".r
   def verify(fileName: String): Boolean = fileName match
     case PATTERN(name, checksum) =>
+      name.split("").diff()
       name
         .split("")
         .foldLeft("")((acc, current) =>
-          if acc.contains(current) then acc.replace(current, "")
+          if acc.contains(current) then acc.replaceAll(current, "")
           else acc + current
         ) == checksum
     case _ => false
